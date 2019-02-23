@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+.name{
+  display: flex;
+}
+.title{
+   padding-left: 0.5em;
+}
+.listMovie{
+  display : flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 3em;
+  margin-bottom: 3em;
+
+}
+.serch{
+  display : flex;
+  justify-content: center;
+  justify-content: space-around;
+}
+.rating{
+  display : flex;
+}
+.add{
+  margin-top: 3 em;
+  height: 10em;
+}
+.button {
+  margin-top: 4em;
+  margin-left: 32em;
+  right : 25em;
+  width: 10em;
+  height : 3em;
+}
